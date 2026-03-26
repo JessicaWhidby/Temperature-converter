@@ -1,10 +1,6 @@
-/**I am sole author of the assignment. I have not received a digital copy or printout of the solution from anyone; however I receive
-outside help from the following websites and people: Evely Edwards.
-I have not given a digital copy or printout of my code to anyone; however, I discussed this problem with the following people: none.
-
-This program is intended to be used to convert temperatures. Temperatures can be converted to and from Celsius, Kelvin, and Fahrenheit.
-An example of a real world application would be for doing homework and/or lab problems in my chemistry class. I can now easily convert
-temperatures from the American standard of degrees Fahrenheit to the scientific standard of using the Kelvin scale.
+/**
+This program is intended to be used to convert temperatures.
+Temperatures can be converted to and from Celsius, Kelvin, and Fahrenheit.
 **/
 
 import java.util.Scanner;
