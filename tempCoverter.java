@@ -1,8 +1,3 @@
-/**
-This program is intended to be used to convert temperatures.
-Temperatures can be converted to and from Celsius, Kelvin, and Fahrenheit.
-**/
-
 import java.util.Scanner;
 
 public class tempCoverter{
